@@ -24,6 +24,11 @@ Known issues and missing features:
 * TIA RSYNC register not implemented.
 * PIA INSTAT register not implemented.
 
-YouTube video:
+Information on my blog:
+* [ASCII Atari 2600 Emulator](https://kobolt.github.io/article-211.html)
+
+YouTube videos:
 * [Dragster 5.57 TAS](https://www.youtube.com/shorts/jezs96ZDexw)
+* [Tennis](https://www.youtube.com/shorts/8EkVWc35Ctg)
+* [River Raid](https://www.youtube.com/shorts/9VFFttmodv4)
 
